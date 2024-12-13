@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 100%;
+    margin: auto;
+    margin-top: 150px;
+}
+.d-flex{
+    display: flex;
+    justify-content: center;
+}
+.head{
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 48px;
+    color: cornflowerblue;
+}
+hr{
+    margin: auto;
+    width: 400px;
+}
+.head2{
+    font-family: "Playpen Sans", cursive;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    text-align: center;
+    color: darkcyan;
+}
+.box{
+    width: 325px;
+    margin: 0px 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 15px;
+    background-color: lightcyan;
+}
+.box-img{
+    margin: auto;
+    width: 170px;
+}
+.box-img img{
+    width: 100%;
+    border-radius: 50%;
+}
+h2{
+    font-family: "Noto Sans", sans-serif;
+    color: cadetblue;
+    font-size: 30px;
+}
+h4{
+    color: gainsboro;
+        font-family: "Bree Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+}
+.details{
+    font-family: "Port Lligat Sans", sans-serif;
+    color: gray;
+}
+.icons{
+    font-size: 32px;
+    color: chocolate;
+}
